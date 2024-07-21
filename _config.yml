@@ -21,7 +21,7 @@
 title: A Name to the Face
 email: development@christopherdrum.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Exploring the graphic design that shaped my youth.
+  Exploring the graphic design that shaped my youth, in a vain attempt at releasing myself from nostalgia's shackles.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: christopherdrum
