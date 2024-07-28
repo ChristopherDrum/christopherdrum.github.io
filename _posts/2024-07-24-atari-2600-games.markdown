@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Games of the Atari 2600"
+date:   2024-07-24 10:10:16 +0900
+categories: atari 2600 games cartridges
+---
+We can put a **block of introduction** text here. _Lorem ipsum et tu valorius._ Cannon quis quodinum ins su lo moriando. We can put a block of introduction text here. Lorem ipsum et tu valorius. Cannon quis quodinum ins su lo moriando. 
+We can put a block of introduction text here. Lorem ipsum et tu valorius. Cannon quis quodinum ins su lo moriando. 
+
+<h2 id="orange">Atari</h2>
+While we can certainly point to certain typefaces and say, "Yes, that's the Atari I remember." there are certainly inconsistencies in font choice, especially in the early days. While Harry is the typeface used for a great many early layouts, most notably within the Atari logo itself, its close cousin Horatio does show up from time to time, just to keep things confusing.
+
+| Text | Picture | Silver | Red |
+| :------------:| :------------:| :------------:| :------------:|
+| ![col 3 is](/assets/images/atari_2600_games/Invaders_Text.jpg)     | ![Space Invaders, Atari 2600, picture label variant](/assets/images/atari_2600_games/Invaders_Picture.jpg) | ![Space Invaders, Atari 2600, silver label variant](/assets/images/atari_2600_games/Invaders_Silver.jpg) | ![Space Invaders, Atari 2600, red label variant](/assets/images/atari_2600_games/Invaders_Red.jpg) |
+
+
+### Text Label
+
+### Picture Label
+
+### Silver Label
+
+### Red Label
+The "red label"  eschewed any sense of interesting design, swapping in plain ole' Helvetica as its workhorse typeface, and called it a day. Low-effort all around, mostly repackages of prior classics for the 2600jr console re-release during the NES's final days.
+
+### Educational
+
+<h2 id="red">Sears TeleGames</h2>
+
+<h2 id="purple">Activision</h2>
+
+<h2 id="blue">Mattel M-Network</h2>
+
+<h2 id="green">Imagic</h2>
+
+<h2 id="red">U.S. Games</h2>

@@ -1,21 +1,56 @@
-@font-face {
-    font-family: 'MetropolisBlack';
-            src: url('/assets/fonts/metropolis/Metropolis-Black.ttf') format('truetype');
-    font-weight: normal;
-     font-style: normal;
+// @font-face {
+//     font-family: 'MetropolisBlack';
+//             src: url('/assets/fonts/metropolis/Metropolis-Black.ttf') format('truetype');
+//     font-weight: normal;
+//      font-style: normal;
+// }
+
+// @font-face {
+//   font-family: 'MetropolisMedItalic';
+//           src: url('/assets/fonts/metropolis/Metropolis-MediumItalic.ttf') format('truetype');
+//   font-weight: normal;
+//    font-style: normal;
+// }
+
+#rainbow {
+  height: 1rem;
+  background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right, yellow, orange, red, purple, blue, green);
+  margin-bottom: .5rem;
 }
 
-@font-face {
-  font-family: 'MetropolisMedItalic';
-          src: url('/assets/fonts/metropolis/Metropolis-MediumItalic.ttf') format('truetype');
-  font-weight: normal;
-   font-style: normal;
+#red {
+  color:red;
 }
 
-.bebas-neue-regular {
-  font-family: "Bebas Neue", sans-serif;
-  font-weight: 400;
-    font-style: normal;
+#orange {
+  color:orange;
+}
+
+#purple {
+  color:purple;
+}
+
+#blue {
+  color:blue;
+}
+
+#green {
+  color:green;
+}
+
+p {
+  font-family: "Courier Prime";
+  font-size: medium;
+  line-height: 1.5rem;
+}
+
+p strong {
+  color: red;
+}
+
+p em {
+  color: blue;
 }
 
 .site-header, .site-footer, h2.footer-heading {
@@ -27,23 +62,59 @@ p.footer-col {
 }
   
 .post-title {
-  font-family: "MetropolisBlack";
   font-size: 3rem;
   margin-bottom: 0;
 }
 
-.post-meta {
-  font-family: "MetropolisMedItalic";
+.post-meta, .post-title, h1, h2, h3 {
+  font-family: "Montserrat";
 }
 
-h1, h2, h3 {
-  font-family: "MetropolisBlack";
+h2 {
+  padding-top: 2rem;
 }
 
 h3 {
   color: grey;
 }
 
-p {
-  line-height: 2rem;
+table {
+  border-collapse: separate !important;
+  border-spacing: 0;
+  border-top-style: none;
+  border-left-style: none;
+  border-right-style: none;
+  border-bottom-style: solid;
+  border-bottom-color: orange;
+  border-bottom-width: 3px;
+}
+
+table th {
+  border: none;
+  background-color: orange;
+  height: 1rem;
+  padding: 1px 2px 2px 2px;
+}
+
+table tbody {
+  border-left-color: red;
+}
+
+table th:first-child{
+  border-radius:10px 0 0 0;
+}
+
+table th:last-child{
+  border-radius:0 10px 0 0;
+}
+
+table td {
+  border: none;
+  padding: 20px;
+}
+
+td img {
+  width: 170px;
+  border-radius: 7px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }

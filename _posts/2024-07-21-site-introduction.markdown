@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "All Glory to Soundwave!"
+title:  "What's this all about?"
 date:   2024-07-21 10:10:16 +0900
 categories: jekyll update
 ---
