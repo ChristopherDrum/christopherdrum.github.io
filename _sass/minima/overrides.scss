@@ -66,8 +66,12 @@ p.footer-col {
   margin-bottom: 0;
 }
 
-.post-meta, .post-title, h1, h2, h3 {
+.post-meta, .post-title, .post-link {
   font-family: "Montserrat";
+}
+
+.p-name, .dt-published, h1, h2, h3 {
+  font-family: "Silkscreen";
 }
 
 h2 {
@@ -86,7 +90,7 @@ table {
   border-right-style: none;
   border-bottom-style: solid;
   border-bottom-color: orange;
-  border-bottom-width: 3px;
+  border-bottom-width: 8px;
 }
 
 table th {
@@ -94,6 +98,9 @@ table th {
   background-color: orange;
   height: 1rem;
   padding: 1px 2px 2px 2px;
+  font-family: "Silkscreen";
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
 }
 
 table tbody {
@@ -111,10 +118,12 @@ table th:last-child{
 table td {
   border: none;
   padding: 20px;
+  background-color: rgb(249, 224, 190);
 }
 
 td img {
-  width: 170px;
-  border-radius: 7px;
+  height: 150px;
+  object-fit: scale-down;
+  border-radius: 6px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
