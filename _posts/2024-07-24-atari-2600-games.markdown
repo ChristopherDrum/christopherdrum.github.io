@@ -17,6 +17,25 @@ While we can certainly point to certain typefaces and say, "Yes, that's the Atar
 
 ### Text Label
 
+<!-- <figure><div class="surround"></div> -->
+<figure>
+    <div class="surround"></div>
+    <figcaption>Hover for<br>retypeset version.</figcaption>
+</figure>
+There are two variants on the "text label" style: the # version and the text-only version. Only a scant few games were made in the # version, at a time when Atari seemed to believe that a countable number of games would be produced for the system.
+
+Once that idea was abandoned, the numbering stopped and the typography was tightened up considerably. The slightly slapdash layouts on the early cartridges was given a more polished, professional, clean look.
+<br><br><br><br>
+
+<figure>
+    <div class="surround2"></div>
+    <figcaption>Hover for<br>retypeset version.</figcaption>
+</figure>
+There are two variants on the "text label" style: the # version and the text-only version. Only a scant few games were made in the # version, at a time when Atari seemed to believe that a countable number of games would be produced for the system.
+
+Once that idea was abandoned, the numbering stopped and the typography was tightened up considerably. The slightly slapdash layouts on the early cartridges was given a more polished, professional, clean look.
+<br><br><br><br>
+
 ### Picture Label
 
 ### Silver Label
