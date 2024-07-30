@@ -14,7 +14,6 @@ While we can certainly point to certain typefaces and say, "Yes, that's the Atar
 |:------------:|:------------:|:------------:|:------------:|
 | ![col 3 is](/assets/images/atari_2600_games/Invaders_Text.jpg)     | ![Space Invaders, Atari 2600, picture label variant](/assets/images/atari_2600_games/Invaders_Picture.jpg) | ![Space Invaders, Atari 2600, silver label variant](/assets/images/atari_2600_games/Invaders_Silver.jpg) | ![Space Invaders, Atari 2600, red label variant](/assets/images/atari_2600_games/Invaders_Red.jpg) |
 
-
 ### Text Label
 
 <!-- <figure><div class="surround"></div> -->
