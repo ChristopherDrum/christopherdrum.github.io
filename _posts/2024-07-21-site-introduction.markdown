@@ -4,7 +4,6 @@ title:  "What's this all about?"
 date:   2024-07-21 10:10:16 +0900
 categories: jekyll update
 ---
-![Soundwave re-release](/assets/images/soundwave.jpg)
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
