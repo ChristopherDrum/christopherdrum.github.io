@@ -3,7 +3,6 @@ layout: videogames
 title:  "Games of the Atari 2600"
 date:   2024-07-24 10:10:16 +0900
 categories: atari 2600 games cartridges
-style: videogames
 ---
 We can put a **block of introduction** text here. _Lorem ipsum et tu valorius._ Cannon quis quodinum ins su lo moriando. We can put a block of introduction text here. Lorem ipsum et tu valorius. Cannon quis quodinum ins su lo moriando. 
 We can put a block of introduction text here. Lorem ipsum et tu valorius. Cannon quis quodinum ins su lo moriando. 
