@@ -10,6 +10,6 @@
   {%- endif -%}
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=Jersey+15&family=Montserrat:ital,wght@0,900;1,900&family=Silkscreen:wght@400;700&family=Sixtyfour&display=swap');
-    {% if page.style %} {% include {{ page.style }}.scss %} {% endif %}
+    {%- if page.style -%} {%- include {{ page.style }}.scss -%} {%- endif -%}
    </style>
 </head>

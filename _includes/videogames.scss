@@ -8,29 +8,33 @@
 
 #red {
   background-color:red;
+  color: white;
 }
 
 #orange {
   background-color:orange;
-  border-bottom-color: orange;
+  color: white;
 }
 
 #purple {
   background-color:purple;
+  color: white;
 }
 
 #blue {
   background-color:blue;
+  color: white;
 }
 
 #green {
   background-color:green;
+  color: white;
 }
 
 p {
   font-family: "Courier Prime";
   font-size: medium;
-  line-height: 1.5rem;
+  line-height: 1.75rem;
 }
 
 p strong {
@@ -62,16 +66,8 @@ p.footer-col {
   font-family: "Silkscreen";
 }
 
-// .post-content h2 {
-//   padding-top: 2rem;
-//   font-size: 40px;
-//   font-kerning: normal;
-//   text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
-// }
-
 .post-content h2 {
   padding-top: 1.5rem;
-  color: white;
   border-radius: 10px;
   font-size: 40px;
   font-kerning: normal;
@@ -167,5 +163,31 @@ figcaption {
   font-family: "Silkscreen";
   padding-top: 3px;
   line-height: 15px;
+}
+
+.gallery-images {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+  background-color: darkgray;
+  align-content: space-around;
+  gap: 10px 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 2rem;
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+}
+
+.gallery-images div > img {
+  width: 150px;
+  border-radius: 6px;
+}
+
+.gallery-title {
+  font-family: "Silkscreen"; 
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  text-indent: 6px;
 }
 
