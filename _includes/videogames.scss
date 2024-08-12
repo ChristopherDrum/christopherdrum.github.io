@@ -134,26 +134,6 @@ figure {
   padding-bottom: 1.5rem;
 }
 
-figure .surround {
-  width: 200px;
-  border-radius: 6px;
-  content:url("/assets/images/atari_2600_games/Invaders_Picture.jpg");
-}
-
-figure .surround:hover {
-  content:url("/assets/images/atari_2600_games/Invaders_Red.jpg");
-}
-
-figure .surround2 {
-  width: 200px;
-  border-radius: 6px;
-  content:url("/assets/images/atari_2600_games/Invaders_Silver.jpg");
-}
-
-figure .surround2:hover {
-  content:url("/assets/images/atari_2600_games/Invaders_Text.jpg");
-}
-
 figcaption {
   width: 200px;
   caption-side: bottom;

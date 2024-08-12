@@ -1,0 +1,15 @@
+{% assign folder = page.title | downcase | replace: " ", "_" %}
+{% assign gallery = include.title | downcase | replace: " ", "_" %}
+<p>{{ folder }}</p>
+<div class="gallery-title" id={{ include.color }}>{{ include.title }}</div>
+<div class="gallery-images">
+{% for image in site.static_files %}
+    {% if image.path contains folder %}
+        {% if image.path contains gallery %}
+            <div>
+                <img src="{{ image.path }}" />
+            </div>
+        {% endif %}
+    {% endif %}
+{% endfor %}
+</div>

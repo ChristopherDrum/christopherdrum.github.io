@@ -1,0 +1,13 @@
+{% assign folder = page.title | downcase | replace: " ", "_" %}
+<figure>
+    <style>
+        {{ "." | append: include.image }} {
+            content: url("{{ "/assets/images/" | append: page.layout | append: "/" | append: folder | append: "/comparisons/" | append: include.image | append: "_default.jpg" }}");
+        }
+        {{ "." | append: include.image | append: ":hover" }} {
+            content: url("{{ "/assets/images/" | append: page.layout | append: "/" | append: folder | append: "/comparisons/" | append: include.image | append: "_hover.jpg" }}");
+        }
+    </style>
+    <div class={{ include.image }} style="width:200px; border-radius:6px"></div>
+    <figcaption>Hover for<br>retypeset version.</figcaption>
+</figure>
